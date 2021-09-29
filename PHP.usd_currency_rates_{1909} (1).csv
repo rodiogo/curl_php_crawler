@@ -1,0 +1,15 @@
+<br />
+<b>Notice</b>:  Undefined variable: results in <b>C:\xampp\htdocs\programs\first_approach.php</b> on line <b>44</b><br />
+<br />
+<b>Warning</b>:  array_keys() expects parameter 1 to be array, null given in <b>C:\xampp\htdocs\programs\first_approach.php</b> on line <b>44</b><br />
+<br />
+<b>Warning</b>:  fputcsv() expects at least 2 parameters, 1 given in <b>C:\xampp\htdocs\programs\first_approach.php</b> on line <b>45</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: results in <b>C:\xampp\htdocs\programs\first_approach.php</b> on line <b>47</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\programs\first_approach.php</b> on line <b>47</b><br />
+Array
+(
+    [currency] => USD
+    [rate] => 1.1780
+)
